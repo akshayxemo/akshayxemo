@@ -1,5 +1,5 @@
-### Hi there 👋
-
+### Hi there 👋 I am Akshay Kumar Das
+🌱 I’m currently learning MERN stack web development
 <!--
 **akshayxemo/akshayxemo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
