@@ -2,6 +2,10 @@
 🌱 I’m currently learning MERN stack web development
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=akshayxemo&show_icons=true&theme=tokyonight) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=akshayxemo&layout=compact&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+
+👨‍💻 currently working on
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=akshayxemo&repo=intervuMe-web&theme=tokyonight&icons=true)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **akshayxemo/akshayxemo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
