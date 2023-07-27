@@ -5,7 +5,7 @@
 
 ### 👨‍💻 Currently working on
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=akshayxemo&repo=intervuMe-web&theme=tokyonight&icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=akshayxemo&repo=intervuMe-web&theme=tokyonight&icons=true)](https://github.com/akshayxemo/intervuMe-web)
 <!--
 **akshayxemo/akshayxemo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
