@@ -1,11 +1,12 @@
 ### Hi there 👋 I am Akshay Kumar Das
-🌱 I’m currently learning MERN stack web development
+I enjoy creating new things.
+
+- 🎓 I'm currently pursuing MCA from University of Calcutta (2022-2024)
+- 🌱 I’m currently learning MERN stack development
+- 🔭 I’m currently working on a project called [intervuMe-web](https://github.com/akshayxemo/intervuMe-web)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=akshayxemo&show_icons=true&theme=tokyonight) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=akshayxemo&layout=compact&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
-### 👨‍💻 Currently working on
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=akshayxemo&repo=intervuMe-web&theme=tokyonight&icons=true)](https://github.com/akshayxemo/intervuMe-web)
 <!--
 **akshayxemo/akshayxemo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
