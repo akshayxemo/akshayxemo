@@ -4,9 +4,16 @@
 
 <h1 align="center">Hi 👋, I'm Akshay Kumar Das</h1>
 <h3 align="center">A passionate Full stack Web developer from India.</h3>
-<p align="center"></p>
 
-[![](https://visitcount.itsvg.in/api?id=akshayxemo&icon=0&color=0)](https://visitcount.itsvg.in)
+###
+
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=akshayxemo.akshayxemo&"  />
+</div>
+
+###
+
+<!-- [![](https://visitcount.itsvg.in/api?id=akshayxemo&icon=0&color=6)](https://visitcount.itsvg.in) -->
 
 ## 👩‍💻  About Me
 
@@ -22,12 +29,27 @@
 
 ## 🛠 Tech Stack:
 ### Languages:
+
+<div align="left">
+  <img src="https://cdn.simpleicons.org/c/A8B9CC" height="40" alt="c logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=java" height="40" alt="java logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/javascript/F7DF1E" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/python/3776AB" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
+</div>
+<!--
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) -->
 
 ### Frameworks, Platform & Libraries:
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) 
@@ -66,14 +88,10 @@
   <img src="https://streak-stats.demolab.com?user=akshayxemo&locale=en&mode=daily&theme=radical&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
 </div>
 
-###
-
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=akshayxemo&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=radical&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=akshayxemo&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=radical&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
-
-###
 <!-- ![](https://github-readme-stats.vercel.app/api?username=akshayxemo&theme=radical&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=akshayxemo&theme=radical&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=akshayxemo&theme=radical&hide_border=false&include_all_commits=true&count_private=false&layout=compact) -->
@@ -83,12 +101,11 @@
   <img src="https://github-contributor-stats.vercel.app/api?username=akshayxemo&limit=5&theme=radical&combine_all_yearly_contributions=true" height="220" alt="stats graph"  />
 </div>
 
-
 ### 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=akshayxemo&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+![](https://quotes-github-readme.vercel.app/api?type=vertical&theme=radical)
 
 
 ## 🤝 Connect with me:
