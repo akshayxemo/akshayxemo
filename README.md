@@ -4,6 +4,7 @@
 
 <h1 align="center">Hi 👋, I'm Akshay Kumar Das</h1>
 <h3 align="center">A passionate Full stack Web developer from India.</h3>
+<p align="center"></p>
 
 [![](https://visitcount.itsvg.in/api?id=akshayxemo&icon=0&color=0)](https://visitcount.itsvg.in)
 
@@ -60,21 +61,37 @@
 ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
 
 ## 🔥 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=akshayxemo&theme=radical&hide_border=false&include_all_commits=true&count_private=false)<br/>
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=akshayxemo&locale=en&mode=daily&theme=radical&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+</div>
+
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=akshayxemo&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=radical&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=akshayxemo&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=radical&hide_border=false&order=2" height="150" alt="languages graph"  />
+</div>
+
+###
+<!-- ![](https://github-readme-stats.vercel.app/api?username=akshayxemo&theme=radical&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=akshayxemo&theme=radical&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=akshayxemo&theme=radical&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=akshayxemo&theme=radical&hide_border=false&include_all_commits=true&count_private=false&layout=compact) -->
 
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=akshayxemo&limit=5&theme=radical&combine_all_yearly_contributions=true)
+<div align="center">
+  <img src="https://github-contributor-stats.vercel.app/api?username=akshayxemo&limit=5&theme=radical&combine_all_yearly_contributions=true" height="220" alt="stats graph"  />
+</div>
 
-## 🏆 GitHub Trophies
+
+### 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=akshayxemo&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
----
-## Connect with me:
+
+## 🤝 Connect with me:
 <!-- [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_yahska_ad_) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/akshay-kumar-das945405240) 
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/yahska_ad) -->
@@ -84,6 +101,5 @@
 <a href="https://instagram.com/_yahska_ad_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_yahska_ad_" height="20" width="30" /></a> &nbsp;
 <a href="https://twitter.com/yahska_ad" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="yahska_ad" height="20" width="30" /></a> &nbsp;
 <a href="https://www.hackerrank.com/@yahska_xemo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@yahska_xemo" height="20" width="30" /></a> &nbsp;
-<a href="https://discord.gg/Yahska@ad" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Yahska@ad" height="20" width="30" /></a> &nbsp;
 </p>
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
