@@ -15,7 +15,7 @@
 
 <!-- [![](https://visitcount.itsvg.in/api?id=akshayxemo&icon=0&color=6)](https://visitcount.itsvg.in) -->
 
-## 👩‍💻  About Me
+## About Me 👩‍💻
 
 - 🔭 I’m currently working on [intervuMe-web](https://github.com/akshayxemo/intervuMe-web)
 - 🌱 I’m currently learning **ReactJs, NextJs, Mongodb and Blockchain**
@@ -25,9 +25,9 @@
 - 📫 How to reach me **akdatwork001@gmail.com**
 - 📄 Know about my experiences [here](https://www.canva.com/design/DAFqaxjoAKY/vQ7o5KbK-RKWWBihtH0tww/view?utm_content=DAFqaxjoAKY&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)
 - ⚡ Fun fact **I think I am dumb.**
+<br>
 
-
-## 🛠 Tech Stack:
+## Tech Stack 🛠
 ### Languages:
 
 <div align="left">
@@ -82,7 +82,7 @@
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) 
 ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
 
-## 🔥 GitHub Stats:
+## GitHub Stats 🔥
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=akshayxemo&locale=en&mode=daily&theme=radical&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
 </div>
@@ -95,13 +95,9 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=akshayxemo&theme=radical&hide_border=false&include_all_commits=true&count_private=false&layout=compact) -->
 
 ### 🔝 Top Contributed Repo
-###
-
 <div align="center">
   <img src="https://github-contributor-stats.vercel.app/api?username=akshayxemo&limit=5&theme=radical&combine_all_yearly_contributions=true" height="220" alt="stats graph"  />
 </div>
-
-###
 
 ### 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=akshayxemo&theme=radical&no-frame=false&no-bg=false&margin-w=4)
@@ -119,6 +115,6 @@
 <a href="https://linkedin.com/in/akshay-kumar-das945405240" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="in/akshay-kumar-das945405240" height="20" width="30" /></a> &nbsp;
 <a href="https://instagram.com/_yahska_ad_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_yahska_ad_" height="20" width="30" /></a> &nbsp;
 <a href="https://twitter.com/yahska_ad" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="yahska_ad" height="20" width="30" /></a> &nbsp;
-<a href="https://www.hackerrank.com/yahska_xemo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="yahska_xemo" height="20" width="30" /></a> &nbsp;
+<!-- <a href="https://www.hackerrank.com/yahska_xemo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="yahska_xemo" height="20" width="30" /></a> &nbsp; -->
 </p>
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
