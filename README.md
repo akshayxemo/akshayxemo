@@ -5,13 +5,13 @@
 <h1 align="center">Hi 👋, I'm Akshay Kumar Das</h1>
 <h3 align="center">A passionate Full stack Web developer from India.</h3>
 
-###
+<!--###
 
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=akshayxemo.akshayxemo&"  />
 </div>
 
-###
+### -->
 
 <!-- [![](https://visitcount.itsvg.in/api?id=akshayxemo&icon=0&color=6)](https://visitcount.itsvg.in) -->
 
