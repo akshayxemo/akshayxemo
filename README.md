@@ -15,7 +15,7 @@
 
 <!-- [![](https://visitcount.itsvg.in/api?id=akshayxemo&icon=0&color=6)](https://visitcount.itsvg.in) -->
 
-## About Me 👩‍💻
+## 👩‍💻 About Me 
 
 - 🔭 I’m currently working on [intervuMe-web](https://github.com/akshayxemo/intervuMe-web)
 - 🌱 I’m currently learning **ReactJs, NextJs, Mongodb and Blockchain**
@@ -27,7 +27,7 @@
 - ⚡ Fun fact **I think I am dumb.**
 <br>
 
-## Tech Stack 🛠
+## 🛠 Tech Stack
 ### Languages:
 
 <div align="left">
@@ -82,7 +82,7 @@
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) 
 ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
 
-## GitHub Stats 🔥
+## 🔥 GitHub Stats
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=akshayxemo&locale=en&mode=daily&theme=radical&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
 </div>
