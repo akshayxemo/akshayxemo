@@ -123,12 +123,7 @@
 <summary> <h3>🏆 GitHub Trophies</h3></summary>
   
 ![](https://github-profile-trophy.vercel.app/?username=akshayxemo&theme=radical&no-frame=false&no-bg=false&margin-w=4)
-
 </details>
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=vertical&theme=radical)
-
 
 ## 🤝 Let's Connect:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white&style=for-the-badge)](https://instagram.com/_yahska_ad_) 
