@@ -111,16 +111,20 @@
 </div>
 <div align="center">
  <!-- <img src="https://github-readme-stats.vercel.app/api?username=akshayxemo&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=radical&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  /> -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=akshayxemo&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=radical&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=akshayxemo&theme=radical" height="240" alt="languages graph"  />
 </div>
 
 ### 🔝 Top Contributed Repo
 <div align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=akshayxemo&limit=5&theme=radical&combine_all_yearly_contributions=true" height="220" alt="stats graph"  />
+  <img src="https://github-contributor-stats.vercel.app/api?username=akshayxemo&limit=5&theme=radical&combine_all_yearly_contributions=true" height="270" alt="stats graph"  />
 </div>
 
-### 🏆 GitHub Trophies
+<details>
+<summary> <h3>🏆 GitHub Trophies</h3></summary>
+  
 ![](https://github-profile-trophy.vercel.app/?username=akshayxemo&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+
+</details>
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=vertical&theme=radical)
