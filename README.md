@@ -19,12 +19,12 @@
 - 🔭 I’m currently working on [intervuMe-web](https://github.com/akshayxemo/intervuMe-web)
 - 🌱 I’m currently learning **ReactJs, NextJs, Mongodb and Blockchain**
 - 👯 I’m looking to collaborate on **Full stack projects**
-- 👨‍💻 All of my projects are available at [here](https://github.com/akshayxemo)
+- 👨‍💻 All of my projects are available at [Github](https://github.com/akshayxemo?tab=repositories)
 - 💬 Ask me about **react, express and web**
 - 📫 How to reach me **akdatwork001@gmail.com**
 - 🌐 my website : [adwebz](https://adwebz.vercel.app/)
 - 📄 Know about my experiences [here my resume](https://www.canva.com/design/DAFqaxjoAKY/vQ7o5KbK-RKWWBihtH0tww/view?utm_content=DAFqaxjoAKY&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)
-- ⚡ Fun fact **I think I am dumb.**
+- ⚡ Fun fact **I think I am not dumb.**
 <br>
 
 ## 🛠 Tech Stack
