@@ -100,7 +100,7 @@
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=akshayxemo&locale=en&mode=daily&theme=transparent&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
 </div>
-<div align="left">
+<div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=akshayxemo&theme=transparent" height="240" alt="languages graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akshayxemo&layout=compact&theme=transparent" height="240" />
 </div>
