@@ -11,19 +11,10 @@
 <a href="https://linkedin.com/in/akshay-kumar-das945405240" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="in/akshay-kumar-das945405240" height="20" width="30" /></a> &nbsp;
 <a href="https://instagram.com/_yahska_ad_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_yahska_ad_" height="20" width="30" /></a> &nbsp;
 <a href="https://twitter.com/yahska_ad" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="yahska_ad" height="20" width="30" /></a> &nbsp;
+<a href="https://adwebz.vercel.app/"><img align="center" src="https://github.com/akshayxemo/akshayxemo/assets/83893825/ba87c4ff-04cd-4e2c-a342-6e29ac3e5a7e" alt="adwebz-personal-site" height="25" width="25"/></a>
 </p>
-
 ###
 
-<!--###
-
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=akshayxemo.akshayxemo&"  />
-</div>
-
-### -->
-
-<!-- [![](https://visitcount.itsvg.in/api?id=akshayxemo&icon=0&color=6)](https://visitcount.itsvg.in) -->
 
 ## 👩‍💻 About Me 
 
@@ -33,7 +24,8 @@
 - 👨‍💻 All of my projects are available at [here](https://github.com/akshayxemo)
 - 💬 Ask me about **react, express and web**
 - 📫 How to reach me **akdatwork001@gmail.com**
-- 📄 Know about my experiences [here](https://www.canva.com/design/DAFqaxjoAKY/vQ7o5KbK-RKWWBihtH0tww/view?utm_content=DAFqaxjoAKY&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)
+- 🌐 my website : [adwebz](https://adwebz.vercel.app/)
+- 📄 Know about my experiences [here my resume](https://www.canva.com/design/DAFqaxjoAKY/vQ7o5KbK-RKWWBihtH0tww/view?utm_content=DAFqaxjoAKY&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)
 - ⚡ Fun fact **I think I am dumb.**
 <br>
 
@@ -97,6 +89,7 @@
 
 ### Hosting:
 ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) 
+![Vercel](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) 
 
 ### Others:
 <div align="left">
