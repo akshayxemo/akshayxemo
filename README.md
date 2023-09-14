@@ -5,7 +5,6 @@
 <h1 align="center">Hi 👋, I'm Akshay Kumar Das</h1>
 <h3 align="center">A passionate Full stack Web developer from India.</h3>
 
-###
 
 <p align="center">
 <a href="https://linkedin.com/in/akshay-kumar-das945405240" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="in/akshay-kumar-das945405240" height="20" width="30" /></a> &nbsp;
@@ -13,7 +12,6 @@
 <a href="https://twitter.com/yahska_ad" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="yahska_ad" height="20" width="30" /></a> &nbsp;
 <a href="https://adwebz.vercel.app/"><img align="center" src="https://github.com/akshayxemo/akshayxemo/assets/83893825/ba87c4ff-04cd-4e2c-a342-6e29ac3e5a7e" alt="adwebz-personal-site" height="25" width="25"/></a>
 </p>
-###
 
 
 ## 👩‍💻 About Me 
