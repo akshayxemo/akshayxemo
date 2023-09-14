@@ -98,16 +98,11 @@
 
 ## 🔥 GitHub Stats
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=akshayxemo&locale=en&mode=daily&theme=radical&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+  <img src="https://streak-stats.demolab.com?user=akshayxemo&locale=en&mode=daily&theme=transparent&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
 </div>
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=akshayxemo&theme=radical" height="240" alt="languages graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akshayxemo&layout=compact&theme=radical" height="240" />
-</div>
-
-### 🔝 Top Contributed Repo
-<div align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=akshayxemo&limit=5&theme=radical&combine_all_yearly_contributions=true" height="270" alt="stats graph"  />
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=akshayxemo&theme=transparent" height="240" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akshayxemo&layout=compact&theme=transparent" height="240" />
 </div>
 
 <details>
@@ -120,12 +115,3 @@
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white&style=for-the-badge)](https://instagram.com/_yahska_ad_) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white&style=for-the-badge)](https://linkedin.com/in/akshay-kumar-das945405240) 
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white&style=for-the-badge)](https://twitter.com/yahska_ad)
-
-
-
-<!-- <p align="left">
-<a href="https://linkedin.com/in/akshay-kumar-das945405240" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="in/akshay-kumar-das945405240" height="25" width="35" /></a> &nbsp;
-<a href="https://instagram.com/_yahska_ad_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_yahska_ad_" height="25" width="35" /></a> &nbsp;
-<a href="https://twitter.com/yahska_ad" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="yahska_ad" height="25" width="35" /></a> &nbsp;
-</p> -->
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
