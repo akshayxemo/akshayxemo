@@ -19,7 +19,7 @@
 ## 👩‍💻 About Me 
 
 <!-- - 🔭 I’m currently working on [intervuMe-web](https://github.com/akshayxemo/intervuMe-web) -->
-- 🌱 I’m currently learning **ReactJs, NextJs, Mongodb and Blockchain**
+- 🌱 I’m currently learning **ReactJs, NextJs, Mongodb**
 - 👯 I’m looking to collaborate on **Full stack projects**
 - 👨‍💻 All of my projects are available at [Github](https://github.com/akshayxemo?tab=repositories)
 - 💬 Ask me about **react, express and web**
