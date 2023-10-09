@@ -113,6 +113,8 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akshayxemo&layout=compact&theme=transparent" height="240" />
 </div>
 
+[![An image of @akshayxemo's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/akshayxemo)](https://holopin.io/@akshayxemo)
+
 <details>
 <summary> <h3>🏆 GitHub Trophies</h3></summary>
   
