@@ -13,7 +13,16 @@
 <a href="https://linkedin.com/in/akshay-kumar-das945405240" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="in/akshay-kumar-das945405240" height="20" width="30" /></a> &nbsp;
 <a href="https://instagram.com/_yahska_ad_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_yahska_ad_" height="20" width="30" /></a> &nbsp;
 <a href="https://twitter.com/yahska_ad" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="yahska_ad" height="20" width="30" /></a> &nbsp;
-<!-- <a href="https://adwebz.vercel.app/"><img align="center" src="https://github.com/akshayxemo/akshayxemo/assets/83893825/ba87c4ff-04cd-4e2c-a342-6e29ac3e5a7e" alt="adwebz-personal-site" height="25" width="25"/></a> -->
+<!-- <a href="https://medium.com/@akshaykrdas001" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@akshaykrdas001" height="30" width="40" /></a> &nbsp;-->
+<a href="https://discord.gg/Yahska@ad" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Yahska@ad" height="30" width="40" /></a> &nbsp;
+<a href="https://medium.com/@akshaykrdas001" target="blank"><img align="center" src="https://github.com/akshayxemo/akshayxemo/assets/83893825/c27c48f2-0261-490c-a232-da71ec4d323d" alt="@akshaykrdas001" height="35" /></a> &nbsp;
+<a href="https://behance.net/akshaykumardas" target="blank"><img align="center" src="https://github.com/akshayxemo/akshayxemo/assets/83893825/70734616-6d1b-4ba4-aeae-fbc93a5a9e77" alt="akshaykumardas" height="15" /></a> &nbsp;
+  <a href="https://www.leetcode.com/akshaykrdas001" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="akshaykrdas001" height="30" width="40" /></a> &nbsp;
+  <a href="https://www.hackerrank.com/@yahska_xemo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@yahska_xemo" height="30" width="40" /></a> &nbsp;
+<a href="https://stackoverflow.com/users/21840321" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="21840321" height="30" width="40" /></a> &nbsp;
+<!-- <div align="center">
+ [![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/akshaykumardas) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@akshaykrdas001) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/21840321) 
+</div> -->
 </p>
 
 <br/>
