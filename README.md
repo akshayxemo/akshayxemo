@@ -34,8 +34,8 @@
 
 ## 👩‍💻 About Me 
 
-- 🔭 I’m currently working on [Leaf Tea](https://github.com/akshayxemo/leaf-tea)
-- 🌱 I’m currently learning **ReactJs, NextJs, Mongodb**
+- 🔭 I’m currently working on [Spotify_clone](https://github.com/akshayxemo/spotify_clone)
+- 🌱 I’m currently learning **Flutter, NextJs**
 - 👯 I’m looking to collaborate on **Full stack projects**
 - 👨‍💻 All of my projects are available at [Github](https://github.com/akshayxemo?tab=repositories)
 - 💬 Ask me about **react, express and web**
@@ -45,8 +45,9 @@
 - ⚡ Fun fact **I think I am not dumb.**
 <br>
 
-## 🛠 Tech Stack
-### Languages:
+## 🛠 Tech Stack & Skills
+[![My Skills](https://skillicons.dev/icons?i=react,express,nodejs,tailwind,flutter,mongodb,mysql,graphql,postman,redux,ts,next,bootstrap,materialui,vercel,js,c,java,python,html,css,figma,photoshop,illustrator,vscode)](https://skillicons.dev)
+<!--### Languages:
 
 <div align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
@@ -63,28 +64,10 @@
 </div>
 
 ### Frameworks, Platform & Libraries:
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=express" height="40" alt="express logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/nodedotjs/339933" height="40" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" height="40" alt="tailwindcss logo"  />
-  <img width="12" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/>
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" height="40" alt="materialui logo"  />
-  <img width="12" />
-<!--   <img src="https://skillicons.dev/icons?i=nextjs" height="40" alt="nextjs logo"  /> -->
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/npm/CB3837" height="40" alt="npm logo"  />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/Socket.io-010101?logo=socketdotio&logoColor=white&style=for-the-badge" height="40" alt="socketio logo"  />
-</div>
+
 
 ### Databases:
-<div align="left">
+  <div align="left">
   <img src="https://skillicons.dev/icons?i=mongodb" height="40" alt="mongodb logo"  />
   <img width="12" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="45" height="45"/>
@@ -104,7 +87,7 @@
 </div>
 
 ### Hosting:
-<!-- ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) -->
+<!-- ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?logo=vercel&logoColor=white&style=for-the-badge)
 
 ### Others:
@@ -112,7 +95,7 @@
   <img src="https://cdn.simpleicons.org/arduino/00979D" height="40" alt="arduino logo"  />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/postman/FF6C37" height="40" alt="postman logo"  />
-</div>
+</div>-->
 
 ## 🔥 GitHub Stats
 <div align="center">
