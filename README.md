@@ -106,13 +106,13 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akshayxemo&layout=compact&theme=transparent" height="240" />
 </div>
 
-<!-- [![An image of @akshayxemo's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/akshayxemo)](https://holopin.io/@akshayxemo) -->
+<!-- [![An image of @akshayxemo's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/akshayxemo)](https://holopin.io/@akshayxemo) 
 
 <details>
 <summary> <h3>🏆 GitHub Trophies</h3></summary>
   
 ![](https://github-profile-trophy.vercel.app/?username=akshayxemo&theme=radical&no-frame=false&no-bg=false&margin-w=4)
-</details>
+</details>-->
 
 ## 🤝 Let's Connect:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white&style=for-the-badge)](https://instagram.com/_yahska_ad_) 
