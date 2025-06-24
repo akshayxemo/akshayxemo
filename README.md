@@ -35,13 +35,13 @@
 ## 👩‍💻 About Me 
 
 <!-- - 🔭 I’m currently working on [Spotify_clone](https://github.com/akshayxemo/spotify_clone) -->
-- 🌱 I’m currently learning **Flutter, NextJs**
+- 🌱 I’m currently learning **AWS, AI AGENTS, DOCKER**
 - 👯 I’m looking to collaborate on **Full stack projects**
 - 👨‍💻 All of my projects are available at [Github](https://github.com/akshayxemo?tab=repositories)
 - 💬 Ask me about **react, express and web**
 - 📫 How to reach me **akdatwork001@gmail.com**
-- 🌐 my website : [adwebz](https://adwebz.vercel.app/)
-- 📄 Know about my experiences [here my resume](https://www.canva.com/design/DAFqaxjoAKY/vQ7o5KbK-RKWWBihtH0tww/view?utm_content=DAFqaxjoAKY&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)
+- 🌐 my website : [adwebz](https://akshaykumardasfolio.vercel.app/)
+- 📄 Know about my experiences [here my resume](https://docs.google.com/document/d/1Q4S9FVxnXpVsFpy-dtAzv0L6MgAJzPs7O125Yv7Bzrw/edit?tab=t.0#heading=h.cghiy1xcpsbf)
 - ⚡ Fun fact **I think I am not dumb.**
 <br>
 
