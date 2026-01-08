@@ -35,7 +35,7 @@
 ## 👩‍💻 About Me 
 
 <!-- - 🔭 I’m currently working on [Spotify_clone](https://github.com/akshayxemo/spotify_clone) -->
-- 🌱 I’m currently learning **AWS, AI AGENTS, DOCKER**
+- 🌱 I’m currently learning **AWS, Flutter, DOCKER**
 - 👯 I’m looking to collaborate on **Full stack projects**
 - 👨‍💻 All of my projects are available at [Github](https://github.com/akshayxemo?tab=repositories)
 - 💬 Ask me about **react, express and web**
