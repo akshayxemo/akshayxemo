@@ -97,14 +97,14 @@
   <img src="https://cdn.simpleicons.org/postman/FF6C37" height="40" alt="postman logo"  />
 </div>-->
 
-## 🔥 GitHub Stats
+<!-- ## 🔥 GitHub Stats
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=akshayxemo&locale=en&mode=daily&theme=transparent&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
 </div>
 <div align="center">
   <!--<img src="https://github-readme-stats.vercel.app/api?username=akshayxemo&theme=transparent" height="240" alt="languages graph"  /> -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akshayxemo&layout=compact&theme=transparent" height="240" />
-</div>
+  <!--<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akshayxemo&layout=compact&theme=transparent" height="240" />
+</div> -->
 
 <!-- [![An image of @akshayxemo's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/akshayxemo)](https://holopin.io/@akshayxemo) 
 
